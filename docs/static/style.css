@@ -1,0 +1,42 @@
+.body{
+	margin-top: 60px;
+}
+
+.subHeader{
+	font-weight: 30px;
+	font-size: 45px;
+	font-family: heading;  
+}
+
+@font-face {
+    font-family: heading;
+    src: url('static/BebasNeue_Bold.otf');
+    font-weight: bold;
+}
+
+.bulletText{
+	margin-left: 40px;
+}
+
+.ui.definition.table{
+	border-top:none; 
+	border-bottom:none;
+}
+
+h3{
+	margin-left: 5px;
+}
+
+/*.eduText{
+	color:rgb(255,221,13);
+	font-size: 15px;
+	font-weight: bolder;
+	font-family: Verdana;
+	text-align: center;
+}
+
+.ui.padded.segment{
+	background-color: black;
+	margin-left: 40px;
+	margin-right: 40px;
+}*/
